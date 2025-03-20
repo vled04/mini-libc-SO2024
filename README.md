@@ -1,0 +1,2 @@
+                                                MINI-LIBC-TEMA1SO-2024
+Build a minimalistic*- [standard C library](https://en.wikipedia.org/wiki/C_standard_library) implementation for Linux systems (named mini-libc), that can be used as a replacement for the system libc*- (glibc in Linux). The goal is to have a minimally functional libc with features such as string management, basic memory support and POSIX file I/O.
